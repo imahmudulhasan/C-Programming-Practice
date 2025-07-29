@@ -1,2 +1,2 @@
 # C-Programming-Practice
-Here is my practices of C codes.
+Here is my practices of C codes. As i am gonna pratice more,i will try to update it frequently....
